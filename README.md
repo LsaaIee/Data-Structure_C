@@ -1,4 +1,3 @@
-# Data-Structure_CPP
+# Data-Structure_C
 
-## Data Structures embodied in CPP
-##### May gonna remove this repository or not >-<
+## Data Structures embodied in C
